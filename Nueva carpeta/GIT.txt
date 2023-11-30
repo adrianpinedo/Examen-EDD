@@ -1,0 +1,1 @@
+Git es un entorno de desarrollo en el cual podemos ver las distintas fases por las que pasa un proyecto.
